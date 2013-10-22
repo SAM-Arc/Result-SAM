@@ -1,0 +1,2 @@
+<center><iframe width="800" height="750" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=<?php echo $latitude; ?>,<?php echo $longitude; ?>&amp;ie=UTF8&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=<?php echo $latitude; ?>,<?php echo $longitude; ?>&amp;ie=UTF8&amp;z=14" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
+</center>
